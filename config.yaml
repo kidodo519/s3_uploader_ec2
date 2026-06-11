@@ -1,0 +1,34 @@
+s3_info:
+  a-and-c:
+    bucket_name: xxxx
+    access_key_id: 'xxxx'
+    secret_access_key: 'xxxx'
+    file_name: 'pms-reservations/'
+
+  sunshine:
+    bucket_name: xxxx
+    access_key_id: 'xxxx'
+    secret_access_key: 'xxxx'
+    file_name: 'pms-reservations/'
+
+  kanon:
+    bucket_name: xxxx
+    access_key_id: 'xxxx'
+    secret_access_key: 'xxxx'
+    file_name: 'pms-reservations/'
+
+  kureha:
+    bucket_name: xxxx
+    access_key_id: 'xxxx'
+    secret_access_key: 'xxxx'
+    file_name: 'pms-reservations/'
+
+  goshobo:
+    bucket_name: xxxx
+    access_key_id: 'xxxx'
+    secret_access_key: 'xxxx'
+    file_name: 'pms-reservations/'
+
+csv:
+  input_directory: csv
+  output_directory: processed-csv
